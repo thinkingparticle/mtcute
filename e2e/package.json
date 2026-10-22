@@ -13,16 +13,16 @@
   },
   "dependencies": {
     "@fuman/utils": "0.0.23",
-    "chai": "^4.3.10",
+    "better-sqlite3": "12.10.0",
+    "chai": "^4.5.0",
     "dotenv-cli": "7.4.4",
+    "esbuild": "^0.24.2",
     "mtcute": "file:../packages/node",
-    "tsx": "^4.19.2",
-    "esbuild": "^0.24.0",
-    "better-sqlite3": "12.10.0"
+    "tsx": "^4.23.15"
   },
   "devDependencies": {
-    "@types/chai": "^4.3.8",
-    "@types/mocha": "^10.0.2",
-    "@types/node": "^20.8.10"
+    "@types/chai": "^4.3.20",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^20.19.43"
   }
 }

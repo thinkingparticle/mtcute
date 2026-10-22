@@ -10,7 +10,7 @@
     "exports": "./src/index.ts",
     "dependencies": {
         "@mtcute/core": "workspace:^",
-        "htmlparser2": "^10.0.0",
+        "htmlparser2": "^10.1.0",
         "long": "catalog:"
     }
 }
